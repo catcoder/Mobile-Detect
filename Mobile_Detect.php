@@ -207,6 +207,10 @@ class Mobile_Detect
         'INQ'           => 'INQ',
         // @Tapatalk is a mobile app; http://support.tapatalk.com/threads/smf-2-0-2-os-and-browser-detection-plugin-and-tapatalk.15565/#post-79039
         'GenericPhone'  => 'Tapatalk|PDA;|SAGEM|\bmmp\b|pocket|\bpsp\b|symbian|Smartphone|smartfon|treo|up.browser|up.link|vodafone|\bwap\b|nokia|Series40|Series60|S60|SonyEricsson|N900|MAUI.*WAP.*Browser',
+        //魅族
+        'MEIZU'         => 'MEIZU|m1 note',
+        //小米
+        'MI'            => 'MI 4LTE|2013022|HM NOTE|Redmi Note',
     );
 
     /**
